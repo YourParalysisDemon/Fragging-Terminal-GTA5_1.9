@@ -9,15 +9,5 @@ The GUI will load in and welcome you.
 
 • Note this is an extenal hack you do not need any kind of injector for this exe to function properly.
 
-(KeyBinds)
-• F5 for godmode
-• F6 for remove cops
-• F1 to kill loops
-• B to teleport backwards lol 
-• C shows gui
-• V Hides gui
-• H vehicle health
-• K KYS 
-  
 Have fun and please get some sick frags. :)  
   
