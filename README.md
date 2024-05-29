@@ -9,8 +9,6 @@ The GUI will load in and welcome you.
 
 • Note this is an extenal hack you do not need any kind of injector for this exe to function properly.
 
-• Note you can't use godmode and never wanted at the same time, it will cause a crash. To kill god or never wanted loops press F1. Use one loop at a time.
-
 (KeyBinds)
 • F5 for godmode
 • F6 for remove cops
