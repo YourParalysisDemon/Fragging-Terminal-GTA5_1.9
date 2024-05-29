@@ -1,7 +1,7 @@
 Fragging Terminal GTA5 v1.9
 
 (Welcome)
-Hello and thankyou for downloading my software. This is a self coded hobby project written in python.  
+Hello and thank you for downloading my software. This is a self coded hobby project written in python.  
 
 (How to run)
 To run it simply run gta5 online or singleplayer. Once it's running just double click the GTA5 Python.exe script right below the music file. 
